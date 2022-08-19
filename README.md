@@ -73,9 +73,6 @@ Bila buku dengan <span style="padding: 2px 4px; color: rgb(175, 78, 93); backgro
 }
 ```
 
-<div align='center'>
-<b>Passed Testing</b>
-</div>
 3. API dapat menyimpan buku
 # Kriteria 
 ## Request Client
@@ -163,9 +160,6 @@ Bila buku berhasil ditambahkan
 }
 ```
 
-<div align='center'>
-<b>Passed Testing</b>
-</div>
 4. API dapat menghapus buku
 # Kriteria
 Menghapus book berdasarkan <span style="padding: 2px 4px; color: rgb(175, 78, 93); background-color: rgb(30, 15, 17)">id</span> yang diberikan
@@ -254,9 +248,6 @@ bila buku berhasil diperbarui
 }
 ```
 
-<div align='center'>
-<b>Passed Testing</b>
-</div>
 
 ### Keterangan : Jika belum ada buku yang dimasukkan kembalikan array books kosong
 
