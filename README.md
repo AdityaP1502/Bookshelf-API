@@ -186,9 +186,6 @@ Bila <span style="padding: 2px 4px; color: rgb(175, 78, 93); background-color: r
 }
 ```
 
-<div align='center'>
-<b>Passed Testing</b>
-</div>
 5. API dapat mengubah data buku
 # Kriteria 
 Harus mengubah data buku berdasarkan <span style="padding: 2px 4px; color: rgb(175, 78, 93); background-color: rgb(30, 15, 17)">id</span>
@@ -250,7 +247,3 @@ bila buku berhasil diperbarui
 
 
 ### Keterangan : Jika belum ada buku yang dimasukkan kembalikan array books kosong
-
-<div align='center'>
-<b>Passed Testing</b>
-</div>
